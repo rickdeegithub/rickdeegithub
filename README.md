@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rickdeegithub
+- 👋 Hi, I’m Richards
 - 👀 I’m interested in software and computer engineering
 - 🌱 I’m currently learning Computer engineering and robotics
 - 💞️ I’m looking to collaborate on any web3 company
